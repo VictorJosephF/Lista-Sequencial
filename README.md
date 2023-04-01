@@ -1,1 +1,1 @@
-# lista sequenial python Brasil
+# lista sequecial python Brasil
