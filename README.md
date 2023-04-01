@@ -1,1 +1,1 @@
-# Java-pratice
+# lista sequenial python Brasil
