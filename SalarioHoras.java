@@ -18,3 +18,5 @@ public class SalarioHoras {
         System.out.print("O valor do salario deste mês foi de: "+ wage);
     }
 }
+
+//signed by VictorJosephF
