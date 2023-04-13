@@ -16,7 +16,7 @@ public class Quest13 {
         weightWoman = (62.1*height)-48;
         if(man == true){
 
-            System.out.print("O peso ideal para um homem dessa altura é: "+weight);
+           System.out.print("O peso ideal para um homem dessa altura é: "+weight);
 
         }
         else{
