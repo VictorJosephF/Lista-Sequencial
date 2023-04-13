@@ -7,7 +7,6 @@ public class quest12 {
         double height, weight;
         System.out.print("Insira sua altura para saber seu peso ideal:  ");
         height = read.nextFloat();
-
         weight = (72.7 * height)-58;
         System.out.print("O peso ideal baseado na sua altura e de: "+ weight);
     }
