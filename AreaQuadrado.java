@@ -13,3 +13,5 @@ public class AreaQuadrado {
         System.out.print("O dobro da área deste quadrado é: "+DoubleArea);
     }
 }
+
+//signed by VictorJosephF
